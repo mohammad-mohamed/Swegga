@@ -87,6 +87,34 @@ td, th {
     cursor: pointer; 
 }
 
+#sidebar img {
+    height: 350px;
+    width: 150px;
+}
+
+#banner img {
+    height: 85px;
+    width: 300px;
+}
+
+#navigation img {
+    height: 56px;
+    width: 560px;
+}
+
+@media (max-width: 768px) {
+    #page {
+        width: 90%;
+    }
+    #sidebar {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+    #main {
+        margin-left: 0;
+    }
+}
 
 /* My NAME & SURNAME */
 /* Mohammad Mohamed */
