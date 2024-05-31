@@ -12,11 +12,12 @@ body {
 	background-color: white;
 	margin: 10px auto;
 	border: 2px solid black;
-	padding: 10px; }
+	padding: 10px;
+	height: 400px; }
 
 #banner {
     margin-bottom: 1em;
-	height: 400px }
+	height: 70px }
 
 #navigation {
 	margin-top: 1em;
